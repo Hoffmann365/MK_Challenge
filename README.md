@@ -60,13 +60,13 @@ using System.Runtime.Intrinsics.Arm;
 
 Soma:
 
-    ```mermaid
-    flowchart TD
-    A1[Início] --> B1[Entrada: números para soma]
-    B1 --> C1[Calcula s1 + s2]
-    C1 --> D1[Exibe Resultado da Soma]
-    D1 --> E1[Fim da Soma]
-    ```
+```mermaid
+flowchart TD
+A1[Início] --> B1[Entrada: números para soma]
+B1 --> C1[Calcula s1 + s2]
+C1 --> D1[Exibe Resultado da Soma]
+D1 --> E1[Fim da Soma]
+```
 
 1. Variáveis:
 ```c#
